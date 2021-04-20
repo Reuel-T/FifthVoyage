@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PhUQ+THXeeeE+vDf5GUoeegHkkEQtU/vTlO6SBS+svYlrjr+9p8AN3nhpjKalv5FD3bIyWA9sWOzZzxAB45sUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reuel\\Documents\\Campus Docs\\YEAR 3\\PROG 7311\\Apps\\API\\todoapi\\TodoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reuel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Reuel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Reuel\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Reuel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Reuel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Reuel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
