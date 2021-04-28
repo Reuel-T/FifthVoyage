@@ -12,6 +12,8 @@ namespace TodoApi
      public String ImageUrl { get; set; }
 
 
+    public Hotel(){}
+
 
     public Hotel(int id, String name, String website, String city, int rating, String url)
     {

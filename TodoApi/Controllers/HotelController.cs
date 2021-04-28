@@ -43,12 +43,11 @@ namespace TodoApi.Controllers
         }
 
         [HttpPost] 
-        public void PostHotel(Hotel h)
+        public List<Hotel> PostHotel(Hotel h)
         {
             hotels.Add(h);
+            return hotels;
         }
-
-
 
     }
 }
